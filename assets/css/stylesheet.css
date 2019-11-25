@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+  }
+.header-wrapper{
+    position: fixed;
+    top: 0;
+    background: white;
+    width: 100%;
+    border-color: #a0a0a0;
+    border-style: solid;
+    border-bottom-width: 1px;
+}
+#headerlogo{
+    
+    margin: 25px 0px 25px 0px;
+    
+}
